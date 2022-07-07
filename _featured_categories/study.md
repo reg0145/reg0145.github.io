@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Study
-slug: Study
+slug: study
 munu: true
 orer: 2
 # (Optional) Write a short (~150 characters) description of this featured tag.
